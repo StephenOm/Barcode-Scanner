@@ -1,2 +1,2 @@
-var API_URL = 'https://secure-reaches-46405.herokuapp.com';
+var API_URL = '';  //Set to server URL
 exports.UPC_URL = `${API_URL}/upc`;
